@@ -1,0 +1,123 @@
+/*
+Theme Name: DaibetesCare Hub
+Description: blog,
+Author:DaibetesCare
+
+
+*/
+
+
+.size-post-thumbnail{
+    width: 100%;
+    height: 30rem;
+}
+
+html {
+    margin-top: 0px !important;
+}
+
+.comment-respond label{display: flex; font-weight: 600; font-family:Arial, Helvetica, sans-serif;}
+.comment-form-cookies-consent{display: flex;}
+.comment-form-comment{display: block; border-radius: 10px;}
+.comment-form-comment textarea{border-radius: 10px; padding: 5px;}
+.form-submit .submit{box-shadow: 4px 5px 3px 2px #978c79d1;border: none;}
+.form-submit .submit:hover{box-shadow: 4px 5px 3px 2px #f88b24f1;color: white; background: rgb(248, 128, 43);transform: scale(1.06); transition: all 0.3s ease;}
+.comment-respond .required{color: red;}
+.comment-respond input {
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  transition: border-color 0.3s;
+}
+
+.comment-respond input:focus,
+.comment-respond textarea:focus {
+  border-color: #007bff;
+  outline: none;
+  transform: scale(1.02); 
+  transition: all 0.3s ease;
+}
+.excerpt{max-height: 28vh;overflow: clip;}
+.navmenu .menu-item a{font-weight: bold; }
+.page_found{padding: 22px;text-align: center;font-weight: 800;}
+.page_found{min-height: 21rem;}
+.img-category{
+    max-width: 35px;
+    border-radius: 50%;
+    height: 35px;
+    margin-right: 5px;
+}
+.form>.wp-block-column.is-layout-flow.wp-block-column-is-layout-flow {padding: 0px 17px;}
+.wp-block-column.has-medium-font-size.is-layout-flow.wp-block-column-is-layout-flow {padding: 8% 17px;}
+button.ff-btn.ff-btn-submit.ff-btn-md.ff_btn_style {padding: 10px 30px; background-color: orangered; color: white;     box-shadow: 2px 1px 3px 4px #ff9168;}
+.ff-default .ff_btn_style:hover{
+  background-color: rgb(233, 64, 22) !important; 
+  color: white !important;
+  transform: matrix3d(0.2, 0.5, 0.3) !important;
+  transition: calc(0.5s) ease !important;
+}
+.form {
+    box-shadow: 0px 1px 5px 0px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 1px;
+}
+.map{box-shadow: 0px 1px 5px 0px;border-radius: 8px;}
+.contact-icon{    margin: 8% 0px;
+    padding: 0px 0px;}
+h1.wp-block-heading {
+      margin-bottom: 20px;
+}
+.navmenu .navmenu .menu-item{
+  margin-inline-end: 12px;
+}
+.details ul li {
+  padding: 5px;
+}
+.icon-footer{
+    background-color: orange;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    padding: 10px;
+    color: white;
+}
+.icon-footer i{
+    font-size: 22px;
+     color: white;
+}
+.footer-address p{
+    font-family: math;
+    padding: 10px 9px;
+}
+.icon-footer:hover{
+    background-color:white;
+    transform: matrix3d(0.8, 0.8, 0.8);
+    transition: calc(0.6s) ease;
+    
+}
+.icon-footer i:hover{
+    color: orange;
+    transform: matrix3d(0.8, 0.8, 0.8);
+    transition: calc(0.6s) ease;
+}
+.category-li ul li{
+  padding: 3px 0px !important;
+}
+.about-img img{
+  border-radius: 20px;
+  box-shadow: 0px 0px 5px 0px;
+}
+.aboutus{
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px 0px;
+    padding: 24px;
+}
+.touch{
+      margin: 15px 0px;
+}
+
+.daibete-page .wp-block-media-text__media> img{
+    box-shadow: 1px 1px 6px 1px;
+    border-radius: 10px;
+}
